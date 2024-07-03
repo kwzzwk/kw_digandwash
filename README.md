@@ -7,7 +7,8 @@
 - Easy to use
 # Depencies
 - ox_lib, ox_target and ox_inventory. Add these to your ox_inventory/data/items.lua
-- <tab><tab>	["pan"] = {
+```
+	["pan"] = {
 		label = "Pan",
 		weight = 1,
 		stack = true,
@@ -34,4 +35,5 @@
 				end	
 			},
 		},
-	},/ so you can use your items!
+	},
+```
