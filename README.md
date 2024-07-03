@@ -2,7 +2,7 @@
 
 # About
 - Very configurable
-- Reward and cheating logs
+- Reward and cheating logs, you need to chance webhook on sv_main.lua 
 - optimized
 - Easy to use
 
