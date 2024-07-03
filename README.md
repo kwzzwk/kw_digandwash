@@ -5,8 +5,8 @@
 - Reward and cheating logs
 - optimized
 - Easy to use
-Video: https://youtu.be/uLV_W6DLx1c
 
+Video: https://youtu.be/uLV_W6DLx1c
 Discord: https://discord.gg/Txmp68Jj8C
 # Depencies
 - ox_lib, ox_target and ox_inventory. Add these to your ox_inventory/data/items.lua
