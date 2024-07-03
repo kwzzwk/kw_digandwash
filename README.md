@@ -34,4 +34,4 @@
 				end	
 			},
 		},
-	},/text here
+	},/ so you can use your items!
