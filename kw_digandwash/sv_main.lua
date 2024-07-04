@@ -71,7 +71,7 @@ lib.callback.register('kw:digandwash:GiveSand', function(source, DataGround)
 end)
 
 lib.callback.register('kw:digandwash:reward', function(source, data)
-    if data then 
+    if not data then 
         local identifiers = PlayerIdentifiers(source)
         local modColor = 4521984
         local information = "Player wasn't in water, and tried to get reward. \nPlayer can be a modder!"
